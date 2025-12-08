@@ -1,0 +1,29 @@
+scr1_top_tb_ahb
+[0;34m---Test:                           or.hex[0m
+Detect OR command, pc counter: 000002a8
+Detect OR command, pc counter: 00000324
+Detect OR command, pc counter: 00000360
+Detect OR command, pc counter: 00000384
+Detect OR command, pc counter: 00000384
+Detect OR command, pc counter: 000003b2
+Detect OR command, pc counter: 000003b2
+Detect OR command, pc counter: 000003e0
+Detect OR command, pc counter: 000003e0
+Detect OR command, pc counter: 0000043c
+Detect OR command, pc counter: 0000043c
+Detect OR command, pc counter: 000004f0
+Detect OR command, pc counter: 000004f0
+Detect OR command, pc counter: 00000544
+Detect OR command, pc counter: 00000544
+Detect OR command, pc counter: 000005f8
+Detect OR command, pc counter: 000005f8
+Detect OR command, pc counter: 00000618
+Detect OR command, pc counter: 00000646
+Detect OR command, pc counter: 00000660
+[0;32mTest passed[0m
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
+
+- /home/vsevolod/ITMO/SoC/SoC_lab2/scr1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
